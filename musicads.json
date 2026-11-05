@@ -24,10 +24,10 @@
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "ca-app-pub-6953444308306842/1441437507",
-        "AdMobInterstitial"   : "ca-app-pub-6953444308306842/9128355837",
-        "AdMobNative"         : "ca-app-pub-6953444308306842/7815274168",
-        "AdMobOpenAd"         : "ca-app-pub-6953444308306842/1460784654",
+        "AdMobBanner"         : "ca-app-pub-6953444308306842/14414375070",
+        "AdMobInterstitial"   : "ca-app-pub-6953444308306842/91283558370",
+        "AdMobNative"         : "ca-app-pub-6953444308306842/78152741680",
+        "AdMobOpenAd"         : "ca-app-pub-6953444308306842/14607846540",
         
         "FacebookBanner"      : "566203748080755_1484806842887103",
         "FacebookInterstitial": "566203748080755_1484807079553746",
