@@ -135,13 +135,13 @@
   
   "AppsPromote": [
     {
-      "name": "HAYEDEH SONG",
+      "name": "HAYEDEH SONGS",
       "packageName": "com.hayedeh1.song.hugetech",
       "icon": "https://play-lh.googleusercontent.com/f9skY2QYLhZ-zuvxnDv86s6NajmlbJPTiW0vdETZRCdxMWSZUJo8Z_T0yPfZZjRa97M=w240-h480-rw",
       "download": "+500K"
     },
     {
-      "name": "MAHASTY SONG",
+      "name": "MAHASTY SONGS",
       "packageName": "com.mahasty.song.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/jzHvIiEAIpqJoioCHT-MVThv93LXMvVmg9LxnJbXjdlVRdlAmCurxxl4aoBs9rXb-A=w240-h480-rw",
       "download": "+600K"
@@ -165,7 +165,7 @@
       "download": "+480K"
     },
     {
-      "name": "IRAJ SONG",
+      "name": "IRAJ SONGS",
       "packageName": "com.iraj.song.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/n0xbFe73thdGCHc9686Okg1nHkb5dKWl8SVKfLeSQzzsFvw7Mmv70Lc2YCeLcsY2A1F7=w240-h480-rw",
       "download": "+280K"
@@ -189,7 +189,7 @@
       "download": "+350K"
     },
     {
-      "name": "AGHASI SONG",
+      "name": "AGHASI SONGS",
       "packageName": "com.aghasi.song.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/jsXe5nfPsEjaL8UmQxB68xGywAJl7qYlw81HhaYut-0QB9qXgAdjxQe1D6O2GEo244w=w240-h480-rw",
       "download": "+4800K"
@@ -207,7 +207,7 @@
       "download": "+550K"
     },
     {
-      "name": "MARDIH SONG",
+      "name": "MARDIH SONGS",
       "packageName": "com.mardih.songs.hugetech",
       "icon": "https://play-lh.googleusercontent.com/Xlv1FaDeM0yewX5UOxjsJNPe4LfWdmC-MXJY00TP0FJw8sb1cOuv_1GC0HZsgLYMLA=w240-h480-rw",
       "download": "+680K"
@@ -219,13 +219,13 @@
       "download": "+280K"
     },
     {
-      "name": "MARJAN SONG",
+      "name": "MARJAN SONGS",
       "packageName": "com.marjan.song.hugetech",
       "icon": "https://play-lh.googleusercontent.com/1kmfnm27eI2SWKfrc7cgHE5QWWMZxK137n4mJzyvDmxC_uKjbQdYF5-YaxLuGUKMrSc=w240-h480-rw",
       "download": "+480K"
     },
     {
-      "name": "SATIN SONG",
+      "name": "SATIN SONGS",
       "packageName": "com.satin.songs.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/Qad97uBMdFfXcj8XySswux7JPpSqstBZQ4OsheMBvWQIUAAB0_VQ4SGSzOkZpy2Dog=w240-h480-rw",
       "download": "+480K"
